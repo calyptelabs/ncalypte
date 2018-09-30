@@ -1,2 +1,2 @@
 # ncalypte
-Cliente Node.js  do Calypte
+Cliente Calypte para Node.js
